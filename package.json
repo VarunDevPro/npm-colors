@@ -1,0 +1,30 @@
+{
+  "name": "@varundevpro/colors",
+  "version": "1.0.0",
+  "description": "Simple package to print colorful logs in your console.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "files": [
+    "/lib"
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VarunDevPro/npm-colors.git"
+  },
+  "keywords": [
+    "colors",
+    "console-colors",
+    "color-logs"
+  ],
+  "author": "Varun A 🔥",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VarunDevPro/npm-colors/issues"
+  },
+  "homepage": "https://github.com/VarunDevPro/npm-colors#readme"
+}
