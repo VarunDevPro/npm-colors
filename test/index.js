@@ -1,4 +1,5 @@
 const colors = require("../lib");
+
 colors.black("This should be printed in black");
 colors.red("This should be printed in red");
 colors.green("This should be printed in green");
